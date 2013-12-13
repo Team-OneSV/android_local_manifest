@@ -2,11 +2,9 @@
 <manifest>
 
 <remove-project name="CyanogenMod/android_bionic" />
-<remove-project name="CyanogenMod/android_hardware_qcom_display-caf" />
 
 <!-- Device Stuff for CM-10.1 -->
 
-<project path="hardware/qcom/display-caf" name="Team-OneSV/android_hardware_qcom_display-caf" revision="cm-10.1" />
 <project path="bionic" name="Team-OneSV/android_bionic" revision="cm-10.1" />
 <project path="kernel/htc/k2" name="SickleKernels/android_kernel_htc_k2" revision="jellybean" />
 <project path="device/htc/msm8960-common" name="Team-OneSV/android_device_htc_msm8960-common" revision="cm-10.1" />
