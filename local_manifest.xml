@@ -3,6 +3,7 @@
 
 <!-- Device Stuff for CM-10.1 -->
 
+<project path="kernel/htc/k2" name="SickleKernels/android_kernel_htc_k2" revision="jellybean" />
 <project path="device/htc/msm8960-common" name="Team-OneSV/android_device_htc_msm8960-common" revision="cm-10.1" />
 <project path="device/htc/k2_cl" name="awid777/android_device_htc_k2_cl-NB" revision="cm-10.1" />
 <project path="vendor/htc/k2_cl" name="Team-OneSV/android_vendor_htc_k2-cl" revision="master" />
